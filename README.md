@@ -13,9 +13,9 @@ This is simple Web Server in Golang which receives requests from clients, typica
 
 ##INSTALLATION 
 
-To clone the project use, the `git clone https://github.com/pri-3x/Go-Server.git` command
-To install the dependencies, use the `go mod tidy` command
-To run the server, use the `go run main.go` command
+To clone the project use, the `git clone https://github.com/pri-3x/Go-Server.git` command.
+To install the dependencies, use the `go mod tidy` command.
+To run the server, use the `go run main.go` command.
 
 
 
